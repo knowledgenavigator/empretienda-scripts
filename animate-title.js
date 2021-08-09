@@ -5,7 +5,7 @@ var interval;
 
 var frames = ["💞 NappyPaws 💞", "💗 NappyPaws 💗", "🌸 NappyPaws 🌸"];
 
-document.title = frames[0]; // initialize to the first frame
+document.title = frames[3]; // initialize to the first frame
 var currentFrame = 0;
 var on = false;
 
